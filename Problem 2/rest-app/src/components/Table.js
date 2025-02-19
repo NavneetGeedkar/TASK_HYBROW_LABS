@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const StarWarsTable = () => {
+const Table = () => {
   const [users, setUsers] = useState([]);
 
   // Fetch a random Star Wars character
@@ -49,4 +49,4 @@ const StarWarsTable = () => {
   );
 };
 
-export default StarWarsTable;
+export default Table;

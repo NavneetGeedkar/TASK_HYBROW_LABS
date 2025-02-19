@@ -5,7 +5,7 @@ import StarWarsTable from "./components/Table";
 function App() {
   return (
     <div>
-      <StarWarsTable />
+      <Table />
     </div>
   );
 }

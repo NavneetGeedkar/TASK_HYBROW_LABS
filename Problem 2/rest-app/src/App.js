@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css"
-import StarWarsTable from "./components/Table";
+import Table from "./components/Table";
 
 function App() {
   return (
